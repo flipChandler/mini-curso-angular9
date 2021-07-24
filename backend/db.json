@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": 12000.89
+    },
+    {
+      "name": "Geladeira Consul Prata",
+      "price": 9000.89,
+      "id": 3
+    },
+    {
+      "name": "Geladeira",
+      "price": "1913.99",
+      "id": 4
+    },
+    {
+      "name": "DVD",
+      "price": "213.99",
+      "id": 5
+    },
+    {
+      "name": "Jaca de 7 gomos",
+      "price": "128.98",
+      "id": 6
+    },
+    {
+      "name": "Veio do formulário",
+      "price": "800.69",
+      "id": 9
+    },
+    {
+      "name": "Veio do formulário",
+      "price": "789",
+      "id": 10
+    },
+    {
+      "name": "Toalha de banho",
+      "price": "3.12",
+      "id": 11
+    }
+  ]
+}
